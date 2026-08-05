@@ -66,8 +66,8 @@ Click either of the first two screenshots to open the live site.
   <sub><code>Next.js</code> <code>HeroUI</code> <code>next-intl</code></sub>
 </td>
 <td>
-  <b>Autofficina Montegrappa</b> <sub>— preview</sub><br>
-  <sub>6 routes × 3 locales, <b>29 kB</b> of JavaScript in total, <b>zero</b> dependencies and no build step. 9 checks have to pass before it ships.</sub>
+  <b>Autofficina Montegrappa</b><br>
+  <sub><b>Preview, not yet live.</b> 6 routes × 3 locales, <b>29 kB</b> of JavaScript in total, <b>zero</b> dependencies and no build step.</sub>
   <br><br>
   <sub><code>Hand-written HTML</code> <code>CSS</code> <code>Vanilla JS</code></sub>
 </td>
