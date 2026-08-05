@@ -55,7 +55,7 @@ Click either of the first two screenshots to open the live site.
 <tr valign="top">
 <td>
   <b><a href="https://pacific-christian.vercel.app/">Pacific Christian School</a></b><br>
-  <sub>18 pages across 5 layout families. First-load JS <b>165 → 111 kB</b>; the CSS went from 91 hand-written rules to 11.</sub>
+  <sub>18 pages, 5 layout families. First-load JS <b>165 → 111 kB</b>, and the CSS from 91 hand-written rules to 11.</sub>
   <br><br>
   <sub><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code></sub>
 </td>
